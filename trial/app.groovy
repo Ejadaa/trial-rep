@@ -3,7 +3,7 @@ class ThisWillActuallyRun {
 
     @RequestMapping("/")
     String home() {
-      return "pushed by git";
+      return "pushed by new in git";
     }
 
 }
